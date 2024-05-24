@@ -52,9 +52,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@Kasun_Ind27" target="https://x.com/Kasun_Ind27"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Kasun_Ind27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kasun Indrajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kasun Indrajith" height="30" width="40" /></a>
-<a href="https://fb.com/kasun indrajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kasun Indrajith" height="30" width="40" /></a>
-<a href="https://instagram.com/kasun_ind27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasun_ind27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kasun Indrajith" target="https://www.linkedin.com/in/kasun-indrajith-177171251/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kasun Indrajith" height="30" width="40" /></a>
+<a href="https://fb.com/kasun indrajith" target="https://www.facebook.com/kasun.indrajith.902"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kasun Indrajith" height="30" width="40" /></a>
+<a href="https://instagram.com/kasun_ind27" target="https://www.instagram.com/kasun_ind27/?hl=en"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasun_ind27" height="30" width="40" /></a>
 </p>
 
 ---
